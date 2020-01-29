@@ -1,0 +1,6 @@
+{
+    "id": "{{id}}",
+    "description": "{{description}}",
+    "costInCents": "{{cents}}",
+    "complete": "{{complete}}"
+}
