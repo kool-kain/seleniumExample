@@ -36,6 +36,7 @@ class ChromeTesting {
 	
 	@AfterAll
 	public static void cleanUpAll() {
+		//Executes after all tests are done
 		browser.close();
 	}
 
